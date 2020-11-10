@@ -1,0 +1,9 @@
+C:\Meu\facul\Matérias\Computação gráfica\disciplina-cg-master\CG_Biblioteca\bin\Debug\netcoreapp3.1\CG_Biblioteca.deps.json
+C:\Meu\facul\Matérias\Computação gráfica\disciplina-cg-master\CG_Biblioteca\bin\Debug\netcoreapp3.1\CG_Biblioteca.dll
+C:\Meu\facul\Matérias\Computação gráfica\disciplina-cg-master\CG_Biblioteca\bin\Debug\netcoreapp3.1\CG_Biblioteca.pdb
+C:\Meu\facul\Matérias\Computação gráfica\disciplina-cg-master\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.csprojAssemblyReference.cache
+C:\Meu\facul\Matérias\Computação gráfica\disciplina-cg-master\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.AssemblyInfoInputs.cache
+C:\Meu\facul\Matérias\Computação gráfica\disciplina-cg-master\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.AssemblyInfo.cs
+C:\Meu\facul\Matérias\Computação gráfica\disciplina-cg-master\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Meu\facul\Matérias\Computação gráfica\disciplina-cg-master\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.dll
+C:\Meu\facul\Matérias\Computação gráfica\disciplina-cg-master\CG_Biblioteca\obj\Debug\netcoreapp3.1\CG_Biblioteca.pdb
